@@ -23,7 +23,7 @@
 ## BeeSwarm
 
 - Técnica: BeeSwarm
-- Usos: Se utiliza para representar la distribución de un conjunto de datos, mitigando el solapamiento que se puede producit en los datos.
+- Usos: Se utiliza para representar la distribución de un conjunto de datos, mitigando el solapamiento que se puede producir en los datos.
 - Tipo de datos utilizado: Los tiros de Kobe Bryant de [Rawgraphs.io](https://github.com/rawgraphs/rawgraphs-app/blob/master/public/sample-datasets/Hexbin%20-%20basketball%20shots.tsv)
 - Herramienta: [Rawgraphics.com](https://www.rawgraphs.io/)
 
