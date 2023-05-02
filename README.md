@@ -14,6 +14,8 @@
 - Tipo de datos utilizado: Felinos en peligro de extinción de [Rawgraphs.io](https://github.com/rawgraphs/rawgraphs-app/blob/master/public/sample-datasets/Dendrogram%20-%20Felidae%20classification.tsv)
 - Herramienta: [Rawgraphics.com](https://www.rawgraphs.io/)
 
+### Felinos en peligro de extinción
+#### (Clasificados jerárquicamente)
 ![Dendrogram](/Felinos_Dendrogram.svg)
 
 ## BeeSwarm
